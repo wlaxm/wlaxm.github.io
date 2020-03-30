@@ -3,11 +3,11 @@
   <title>卫庄</title>
   
   <subtitle>诸子百家，唯我纵横</subtitle>
-  <link href="/wlaxm.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://wlaxm.github.io/"/>
-  <updated>2020-03-27T10:33:23.391Z</updated>
-  <id>http://wlaxm.github.io/</id>
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-30T13:46:25.422Z</updated>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>卫庄</name>
@@ -17,9 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>开端</title>
+    <link href="http://yoursite.com/2020/03/30/my-new-post/"/>
+    <id>http://yoursite.com/2020/03/30/my-new-post/</id>
+    <published>2020-03-30T10:17:50.000Z</published>
+    <updated>2020-03-30T13:46:25.422Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h1><p>  经过几天努力，终于将自己的博客搭成了勉强可以看的样子，由于没有经验，中途还是踩了很多坑，浪费了很多时间。但是收获也还是不少。</p><h2 id="搭博客的收获"><a href="#搭博客的收获" class="headerlink" title="搭博客的收获"></a>搭博客的收获</h2><p>  1.第一次将注册了很久却从来没用过的github用了起来，github注册之后就几乎没有用过，除了download拉代码其他什么都不会，而这次搭博客，终于把github基本的东西学会了。</p><p>  2.由于下载的hexo版本太低，配置文件和网上的教程不一样，导致很多效果改出来不一样，但是又不知道为什么，想了很久，百度也没有搜到，直到机缘巧合下，才意识到有可能是版本的问题（还是自己太菜了）（笑哭）</p><p>  3.最开始把hexo当成手机软件来用，很多地方都感觉很奇怪，等跟着网上的教程把博客快搭好了，才意识到hexo是一个框架，自己的博客就类似于一个网站，而我们不是像平时用手机软件那样是使用者，而是整个网站的操纵者。</p><p>  4.接下来准备继续把博客搭得更漂亮一点，很多细节还是没有弄好，对整个博客还是不能自由自在的操控，有必要看看官方文档弄懂运作的原理。</p><p>  5.学习前端已经接近半年了，感觉自己不懂的东西真的太多太多，但是我依然满怀热情，我也渴望能成为一个计算机大神。我知道这需要时间，但我不会放弃。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;第一篇&quot;&gt;&lt;a href=&quot;#第一篇&quot; class=&quot;headerlink&quot; title=&quot;第一篇&quot;&gt;&lt;/a&gt;第一篇&lt;/h1&gt;&lt;p&gt;  经过几天努力，终于将自己的博客搭成了勉强可以看的样子，由于没有经验，中途还是踩了很多坑，浪费了很多时间。但是收获也还是不少。&lt;/
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://wlaxm.github.io/2020/03/27/hello-world/"/>
-    <id>http://wlaxm.github.io/2020/03/27/hello-world/</id>
+    <link href="http://yoursite.com/2020/03/27/hello-world/"/>
+    <id>http://yoursite.com/2020/03/27/hello-world/</id>
     <published>2020-03-27T10:33:23.390Z</published>
     <updated>2020-03-27T10:33:23.391Z</updated>
     
