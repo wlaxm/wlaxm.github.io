@@ -3,11 +3,11 @@
   <title>卫庄</title>
   
   <subtitle>诸子百家，唯我纵横</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wlaxm.github.io/blog/"/>
   <updated>2020-03-27T10:33:23.391Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wlaxm.github.io/blog/</id>
   
   <author>
     <name>卫庄</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/27/hello-world/"/>
-    <id>http://yoursite.com/2020/03/27/hello-world/</id>
+    <link href="http://wlaxm.github.io/blog/2020/03/27/hello-world/"/>
+    <id>http://wlaxm.github.io/blog/2020/03/27/hello-world/</id>
     <published>2020-03-27T10:33:23.390Z</published>
     <updated>2020-03-27T10:33:23.391Z</updated>
     
