@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试图片</title>
+    <url>/2020/03/31/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<h1 id="卫庄"><a href="#卫庄" class="headerlink" title="卫庄"></a>卫庄</h1><a id="more"></a>
+<p>  此文用于练习怎么在博客中插入图片。<br>  文中插入的图片是高中时最喜欢的一部动漫——天行九歌中的人物。<br>  我十分喜欢剧中卫庄这个人物形象，冷漠的外表，高强的武艺，果断的行事作风。这是我小时候一直想成为的样子，但生活总是无法预料，各色的生活使我不再那么冷漠，曾经的理想也被一些新的理想代替。不能说这是好还是坏，塞翁失马，焉知非福。<br><img src="https://cdn.jsdelivr.net/gh/wlaxm/ziyuan@1.0/天九 (4).jpg"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>开端</title>
+    <url>/2020/03/30/my-new-post/</url>
+    <content><![CDATA[<h1 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h1><a id="more"></a>
+
+<p>  经过几天努力，终于将自己的博客搭成了勉强可以看的样子，由于没有经验，中途还是踩了很多坑，浪费了很多时间。但是收获也还是不少。</p>
+<h2 id="搭博客的收获"><a href="#搭博客的收获" class="headerlink" title="搭博客的收获"></a>搭博客的收获</h2><p>  1.第一次将注册了很久却从来没用过的github用了起来，github注册之后就几乎没有用过，除了download拉代码其他什么都不会，而这次搭博客，终于把github基本的东西学会了。</p>
+<p>  2.由于下载的hexo版本太低，配置文件和网上的教程不一样，导致很多效果改出来不一样，但是又不知道为什么，想了很久，百度也没有搜到，直到机缘巧合下，才意识到有可能是版本的问题（还是自己太菜了）（笑哭）</p>
+<p>  3.最开始把hexo当成手机软件来用，很多地方都感觉很奇怪，等跟着网上的教程把博客快搭好了，才意识到hexo是一个框架，自己的博客就类似于一个网站，而我们不是像平时用手机软件那样是使用者，而是整个网站的操纵者。</p>
+<p>  4.接下来准备继续把博客搭得更漂亮一点，很多细节还是没有弄好，对整个博客还是不能自由自在的操控，有必要看看官方文档弄懂运作的原理。</p>
+<p>  5.学习前端已经接近半年了，感觉自己不懂的东西真的太多太多，但是我依然满怀热情，我也渴望能成为一个计算机大神。我知道这需要时间，但我不会放弃。</p>
+]]></content>
+      <categories>
+        <category>个人</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo</title>
+    <url>/2020/03/27/hello-world/</url>
+    <content><![CDATA[<p>hexo自带的一些使用指导</p>
+<a id="more"></a>
+
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
